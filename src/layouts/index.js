@@ -36,8 +36,8 @@ const Layout = ({ children, site }) => (
       </div>
       <div className="Wrap" >
         <div className="Footer">
-          https://www.instagram.com/kon_ztndr
- <a href="https://www.instagram.com/kon_ztndr">zeetu</a>, <a href="https://snipcart.com/">Snipcart</a> and <a href="https://www.datocms.com">DatoCMS</a>.
+          Fashion brand
+ <a href="https://www.instagram.com/kon_ztendr/">zeetu</a>.
         </div>
       </div>
     </div>
