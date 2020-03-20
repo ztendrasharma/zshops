@@ -36,7 +36,7 @@ const Layout = ({ children, site }) => (
       </div>
       <div className="Wrap" >
         <div className="Footer">
-          Fashion brand
+          Fashion brand tathastu ® made by
  <a href="https://www.instagram.com/kon_ztendr/">zeetu</a>.
         </div>
       </div>
