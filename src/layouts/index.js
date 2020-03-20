@@ -19,7 +19,7 @@ const Layout = ({ children, site }) => (
             </h1>
             <div className="Header__summary snipcart-summary snipcart-checkout">
               <div className="Header__summary__title">
-                🛍 MY CART 🛍
+                🛍 tathastu my shop 🛍
               </div>
               <div className="Header__summary__line">
                 Number of items: <span className="snipcart-total-items"></span>
